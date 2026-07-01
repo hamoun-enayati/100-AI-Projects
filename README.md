@@ -10,7 +10,7 @@ I'm building a giant repository, where I will add 100 projects over one year. Th
   </tr>
   <tr>
     <td>1</td>
-    <td><a href = "https://github.com/hamoun-enayati/Simple-Neural-Network-trained-on-Wisconsin-Breast-Cancer-Dataset">NN For Breast cancer</a></td>
+    <td><a href = "https://github.com/hamoun-enayati/Project-1-Neural-Network-trained-on-Wisconsin-Breast-Cancer-Dataset">NN For Breast cancer</a></td>
     <td>A simple Neural Network trained on Wisconsin Breast cancer dataset</td>
     
   </tr>
