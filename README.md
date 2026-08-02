@@ -24,7 +24,7 @@ I'm building a giant repository, where I will add 100 projects over one year. Th
   </tr>
   <tr>
     <td>3</td>
-    <td><a href = "https://github.com/hamoun-enayati/Project-3-My-First-LLM-Powered-Telegram-Chatbot/blob/main/README.md">My First LLM Powered Telegram Chatbot</a></td>
+    <td><a href = "https://github.com/hamoun-enayati/Project-3-My-First-LLM-Powered-Telegram-Chatbot/blob/main/README.md">My First LLM Powered Telegram Chatbot using n8n</a></td>
     <td>A telegram chatbot that supports voice and text queries</td>
   </tr>
 </table>
