@@ -22,4 +22,9 @@ I'm building a giant repository, where I will add 100 projects over one year. Th
     <td><a href = "https://github.com/hamoun-enayati/Project-2-CNN-on-CIFAR-10-dataset">CNN on CIFAR-10 Dataset</a></td>
     <td>A CNN trained on CIFAR-10, a dataset consisting of 60,000 images and 10 classes</td>
   </tr>
+  <tr>
+    <td>3</td>
+    <td><a href = "https://github.com/hamoun-enayati/Project-3-My-First-LLM-Powered-Telegram-Chatbot/blob/main/README.md">My First LLM Powered Telegram Chatbot</a></td>
+    <td>A telegram chatbot that supports voice and text queries</td>
+  </tr>
 </table>
